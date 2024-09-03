@@ -1,0 +1,7 @@
+torch.cuda.set_device(0)
+parser.add_argument("--work_path", default="./train_result1/", help='工作日志保存位置')
+for feature_number in range(6, 9):
+pred_mask = model(feature_dt_batch[0])(train and val)
+"t": [200, 700, 1000, 1200]// [5, 10, 20, 50, 100, 200, 400, 600, 700, 1000, 1200]
+self.conv1 = nn.Conv2d(384, self.inplanes, kernel_size=7, stride=2, padding=3,bias=False)
+三个文件上传
